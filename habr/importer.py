@@ -1,5 +1,5 @@
 from dateutil.parser import parse
-from verbose_octo_goggles.core import BaseImporter
+from verbose_octo_goggles.importer.base import BaseImporter
 
 from habr.adapter import ArticleAdapter
 from habr.reader import HabrRSSAllReader

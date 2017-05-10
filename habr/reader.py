@@ -1,6 +1,6 @@
 import requests
 from lxml import etree
-from verbose_octo_goggles.core import SkipItem
+from verbose_octo_goggles.importer.base import SkipItem
 from verbose_octo_goggles.reader.base import BaseReader
 from verbose_octo_goggles.reader.rss import BaseRssReader
 

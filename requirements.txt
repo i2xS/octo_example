@@ -2,3 +2,4 @@ Django
 requests
 lxml
 python-dateutil
+verbose-octo-goggles
